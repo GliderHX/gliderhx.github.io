@@ -37,6 +37,10 @@ Please refer https://software.intel.com/en-us/faq/purchasing-renewing-upgrading#
 ifort: error #10052: could not checkout FLEXlm license
 ```
 
+
+
+
+
 ##  查看License历史记录
 由于使用的是学生教育用户申请的License，所以有效期只有一年。登录intel官网账号，在`仪表盘-我的内容`里可以查看申请过的的License历史记录以及到期时间。
 ![](/uploads/2020-03/intel_dashborad.png)
