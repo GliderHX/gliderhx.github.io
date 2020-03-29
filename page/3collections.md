@@ -9,12 +9,12 @@ type: page
 * content
 {:toc}
 
-* [cndaqiang的博客](www.cssmatic.com/box-shadow)
+* [cndaqiang的博客](https://cndaqiang.github.io)
 
 
-* [Materials Project](www.materialsproject.org)
+* [Materials Project](https://www.materialsproject.org/)
 
-* [pymatgen](pymatgen.org)
+* [pymatgen](https://pymatgen.org/)
 
 ## Comments
 
