@@ -64,8 +64,7 @@ else:
 ### 使用list方法将Cursor转化储存起来
 ```python
 db = connection.struct
-docs = list(db.web_materials_check.find({"pretty_formula":'MnO2'},
-{"struct_id":True,"relaxed_structure":True}))
+docs = list(db.web_materials_check.find({"pretty_formula":'MnO2'},{"struct_id":True,"relaxed_structure":True}))
 ids = [i["struct_id"] for i in docs]
 if len(ids) == 0:
     db.web_materials_check.insert_one(insertdoc)
