@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "mongodb (pymongo) find 检索返回的指针莫名丢失"
+title:  "MongoDB (PyMongo) find 检索返回的指针莫名丢失"
 date:   2020-08-30 22:11:00 +0800
 categories: MongoDB Python
 tags:  PyMongo
